@@ -10,6 +10,6 @@ Built with elm and hosted <https://elm-stack.surge.sh> with surge.sh.
 To build the package:
 
 * `git clone` this repo
-* `elm make src/App.elm --output=app.js`
+* `elm make src/App.elm --output app.js`
 
 
