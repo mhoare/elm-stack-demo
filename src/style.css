@@ -1,0 +1,60 @@
+.center
+{
+	text-align: center;
+}
+.footer {
+	text-align: center;
+	margin-top: 4em;
+	border-top: 1px solid #eeeeee;
+	padding: 2em 0;
+	color: #bbbbbb;
+}
+
+
+.jumbotron{
+	background-color: #81C8DC;
+	margin-bottom: 0px;
+}
+#interactivestack {
+	background-color: #d7f1f9;
+}
+h1
+{
+	text-align: center;
+	color: #415065 !important;
+}
+.stackitem {
+	width: 10%;
+	margin: 0;
+	float: left;
+}
+input {
+	width : 100%;
+}
+
+.stackdata, .stackindex {
+	text-align: center;
+	width: 100%;
+	display: block;
+}
+#content {
+	height: 100%;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.stackview {
+	border-width: 1px;
+	border-style: solid;
+	height: auto;
+	/* width: 80%; */
+	height: 5%;
+}
+
+button.push {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 2%;
+}
