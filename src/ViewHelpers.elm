@@ -50,9 +50,9 @@ item which is returned.
 
 footer =
     div [ class "footer" ]
-        [ text "All code for this site is written in Elm. "
-        , a [ class "grey-link", href "mailto:matthew@mhoare.co.uk" ] [ text "Email me if you have any questions" ]
-        , text "! — © 2016 Matthew Hoare"
+        [ text "All code for this site is written in Elm and open-sourced on Github."
+        , a [ class "grey-link", href "https://github.com/mhoare/elm-stack-demo" ] [ text "View the code!" ]
+        , text "! — © 2017 Matthew Hoare"
         ]
 
 
